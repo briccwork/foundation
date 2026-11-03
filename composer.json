@@ -1,0 +1,6 @@
+{
+    "name": "briccwork/foundation",
+    "description": "A foundation for laying the briccwork",
+    "type": "symfony-bundle",
+    "license": "MIT"
+}
